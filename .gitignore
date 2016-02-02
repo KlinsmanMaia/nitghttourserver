@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.classpath
+*.class
+night-tour-server/.settings/org.eclipse.wst.jsdt.ui.superType.name
+*.container
+night-tour-server/.settings/org.eclipse.wst.common.project.facet.core.xml
+*.prefs
+night-tour-server/.settings/org.eclipse.wst.common.component
+*.jsdtscope
